@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red.svg)](https://pytorch.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 End-to-end пайплайн автоматической сегментации гиппокампа по трёхмерным T1-взвешенным МРТ головного мозга.  
 Модель достигает **Dice Similarity Coefficient 0.871** и **HD95 1.62 мм**, что сопоставимо с опубликованными SOTA-результатами для данной задачи.  
